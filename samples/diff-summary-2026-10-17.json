@@ -1,0 +1,185 @@
+{
+ "domain": "desearch.ai",
+ "pages": 2,
+ "step": 20,
+ "starts": [
+  0,
+  20
+ ],
+ "calls": 10,
+ "header_total_usd": 0.01,
+ "keywords": [
+  {
+   "keyword": "web search api",
+   "best_rank": 18,
+   "label": "18",
+   "best_url": "https://www.desearch.ai/web-search-api",
+   "depth": 39,
+   "page_stats": [
+    {
+     "start": 0,
+     "returned": 20,
+     "new": 20,
+     "dupes": 0
+    },
+    {
+     "start": 20,
+     "returned": 19,
+     "new": 19,
+     "dupes": 0
+    }
+   ],
+   "errors": []
+  },
+  {
+   "keyword": "twitter search api",
+   "best_rank": 14,
+   "label": "14",
+   "best_url": "https://www.desearch.ai/twitter-api",
+   "depth": 32,
+   "page_stats": [
+    {
+     "start": 0,
+     "returned": 15,
+     "new": 15,
+     "dupes": 0
+    },
+    {
+     "start": 20,
+     "returned": 17,
+     "new": 17,
+     "dupes": 0
+    }
+   ],
+   "errors": []
+  },
+  {
+   "keyword": "decentralized search engine",
+   "best_rank": null,
+   "label": "not in top 37",
+   "best_url": "",
+   "depth": 37,
+   "page_stats": [
+    {
+     "start": 0,
+     "returned": 20,
+     "new": 20,
+     "dupes": 0
+    },
+    {
+     "start": 20,
+     "returned": 20,
+     "new": 17,
+     "dupes": 3
+    }
+   ],
+   "errors": []
+  },
+  {
+   "keyword": "x posts search api",
+   "best_rank": 4,
+   "label": "4",
+   "best_url": "https://www.desearch.ai/docs/api-reference/get-twitter",
+   "depth": 12,
+   "page_stats": [
+    {
+     "start": 0,
+     "returned": 5,
+     "new": 5,
+     "dupes": 0
+    },
+    {
+     "start": 20,
+     "returned": 8,
+     "new": 7,
+     "dupes": 1
+    }
+   ],
+   "errors": []
+  },
+  {
+   "keyword": "json search results api",
+   "best_rank": 4,
+   "label": "4",
+   "best_url": "https://www.desearch.ai/web-search-api",
+   "depth": 40,
+   "page_stats": [
+    {
+     "start": 0,
+     "returned": 20,
+     "new": 20,
+     "dupes": 0
+    },
+    {
+     "start": 20,
+     "returned": 20,
+     "new": 20,
+     "dupes": 0
+    }
+   ],
+   "errors": []
+  }
+ ],
+ "diff": [
+  {
+   "keyword": "ai search engine api",
+   "before": null,
+   "after": null,
+   "change": "not checked"
+  },
+  {
+   "keyword": "bittensor subnet 22",
+   "before": null,
+   "after": null,
+   "change": "not checked"
+  },
+  {
+   "keyword": "decentralized search engine",
+   "before": 16,
+   "after": null,
+   "change": "dropped out"
+  },
+  {
+   "keyword": "json search results api",
+   "before": 4,
+   "after": 4,
+   "change": "same"
+  },
+  {
+   "keyword": "search api for ai agents",
+   "before": 25,
+   "after": null,
+   "change": "not checked"
+  },
+  {
+   "keyword": "search api for llm",
+   "before": null,
+   "after": null,
+   "change": "not checked"
+  },
+  {
+   "keyword": "serp api",
+   "before": null,
+   "after": null,
+   "change": "not checked"
+  },
+  {
+   "keyword": "twitter search api",
+   "before": 14,
+   "after": 14,
+   "change": "same"
+  },
+  {
+   "keyword": "web search api",
+   "before": 18,
+   "after": 18,
+   "change": "same"
+  },
+  {
+   "keyword": "x posts search api",
+   "before": 4,
+   "after": 4,
+   "change": "same"
+  }
+ ]
+}
